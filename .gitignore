@@ -1,0 +1,12 @@
+# Xcodeのビルドファイル
+/build/
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+
+# Firebaseの設定ファイル
+GoogleService-Info.plist
+
+# CocoaPodsのキャッシュ
+Pods/
